@@ -61,5 +61,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1787049851.152954,
+    "completed_at": 1787049858.514066,
+    "comments": [
+      "Answer for What is the commit message of the commit 2837cd952cf809fc1a2eb85cc4789f6dd2967b47? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
