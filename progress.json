@@ -286,5 +286,14 @@
       "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787717225.519778,
+    "completed_at": 1787717228.305373,
+    "comments": [
+      "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
+    ],
+    "status": "Incomplete"
   }
 ]
